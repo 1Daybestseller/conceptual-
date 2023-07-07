@@ -3,3 +3,23 @@
     color: blue;
     cursor: pointer;
     }
+    .container{
+        display: flex;
+        justify-content: center; 
+        flex-direction: row-reverse;
+        height: 500px;
+        align-items: center;
+        border: 5px solid yellow;
+    .box{
+        padding: 20px;
+        background-color: red;
+        width: 110px;
+        height: 150px;
+        margin: 20px;
+    }
+    .box2{
+        background-color: greenyellow;
+    }
+    .box3{
+        background-color: blue;
+    }
